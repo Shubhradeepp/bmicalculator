@@ -1,0 +1,20 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    width: 100%;
+    color: whitesmoke;
+     background: linear-gradient(to right bottom,orange,#9e2a2b);
+  
+}
+#results{
+    height: 30px;
+    width: 60px;
+    border: 2px solid black;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: aliceblue;
+    font-weight: bolder;
+}
